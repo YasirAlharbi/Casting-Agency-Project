@@ -1,5 +1,6 @@
-Full Stack Trivia API Backend
-
+# Capstone Project - Udacity
+### Full Stack Web Development ND
+_______________________
 Introduction
 Casting-Agency is the fifth and the final project in Udacity nanodgree. It models a company that is responsible for creating movies and managing and assigning actors to those movies. The user can intract with the database useing the API to prform CRUD .The user must have permissions to prform these oparation.the permissions are manged by Auth0.
 
